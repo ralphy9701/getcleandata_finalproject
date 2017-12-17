@@ -1,5 +1,5 @@
 ###################################
-#R.script for Paul Peters
+#R.script for PJP
 #Date Created: 17 Dec 17
 #Getting and Cleaning Data Capstone
 ###################################
