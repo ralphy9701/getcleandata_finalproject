@@ -1,5 +1,5 @@
 
-## gettingandcleaningdata_finalproject
+## getcleandata_finalproject
 
 The final tidy dataset contains 180 records, or 79 observations representing measurement averages for 30 subjects performing 6 activities.
 
