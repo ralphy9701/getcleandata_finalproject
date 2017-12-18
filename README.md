@@ -1,7 +1,9 @@
 ## getcleandata_finalproject
 
 PJP - Getting and Cleaning Data Capstone Project
+
 Uses Human Activity Recognition Using Smartphones Dataset
+
 17 Dec 17
 https://github.com/ralphy9701/getcleandata_finalproject
 
